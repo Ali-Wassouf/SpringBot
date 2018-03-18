@@ -1,7 +1,7 @@
 messenger4j:
-  appSecret:
-  verifyToken :
-  pageAccessToken: EAACEvQW278wBACT8QgxnCpZCAIYZCZA4KoI96pgGUPqz2JbRQxca1wwMrr8z53zM7oSlYEWhbSmjEhgPO1D7qWc4eY3ZBIQAKbKQpUYGJhwtoaq6KsSjeOvHmksfjhPGi6I9ryVYlCh6tppJqz2XpIsSakZBcZCEEZBfHb6JDwZCAZAyHFJxqfnYl
+  appSecret: a199b1c2b25281afbf63a7322762b394
+  verifyToken : Ali_Spring_Wassouf
+  pageAccessToken: EAACMRty3GZCYBAI69cZCW2nosUlx2rZBKKmXpiUGiVeCiYjGnhDcLLX9oZCyZCZCobJyozdwxswU9TZBCbDZA3HJrPuQd14YG5Haf7tlD16S7ZAEXAoJhXxp5eTKadoVSie3UBFWSEY0IWhZCkOmRXgysJQFR4Nw1daBJJDb4sXiWUeq5W9PPd1B02
 
 logging:
   level:
